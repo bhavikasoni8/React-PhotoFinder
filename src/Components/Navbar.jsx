@@ -7,6 +7,7 @@ function Navbar() {
             <div className="logo">
                 <img src={logo} alt="" />
                 <p>PicProwl</p>
+                <p>Bhavika</p>
             </div>
             <div className="icons">
                 <div className="icon"><i class="fa-solid fa-bell"></i></div>
