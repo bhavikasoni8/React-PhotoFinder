@@ -46,7 +46,7 @@ function PhotoSearch() {
                     }}
                 />
                 <button type="submit" className="button">
-                    Search
+                    Search for a photiooss
                 </button>
             </form>
 
